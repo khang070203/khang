@@ -1,0 +1,9 @@
+D:\Khang\acds\acds\bin\Debug\acds.exe.config
+D:\Khang\acds\acds\bin\Debug\acds.exe
+D:\Khang\acds\acds\bin\Debug\acds.pdb
+D:\Khang\acds\acds\obj\Debug\acds.csproj.AssemblyReference.cache
+D:\Khang\acds\acds\obj\Debug\acds.Properties.Resources.resources
+D:\Khang\acds\acds\obj\Debug\acds.csproj.GenerateResource.cache
+D:\Khang\acds\acds\obj\Debug\acds.csproj.CoreCompileInputs.cache
+D:\Khang\acds\acds\obj\Debug\acds.exe
+D:\Khang\acds\acds\obj\Debug\acds.pdb
